@@ -36,10 +36,10 @@ public class Principal {
 					cofre.adicionar();
 					break;
 						
-					// Remover moeda	
-					//case 2: 
-					//	remover();
-					//	break;
+				// Remover moeda	
+				case 2: 
+					cofre.remover();
+					break;
 					
 				// Listar as moedas do cofrinho	
 				case 3:				
